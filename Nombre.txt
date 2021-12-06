@@ -7,4 +7,4 @@ Anahí Torres
 LISTO
 SOMOS UNOS CHAMPIONS
 SELECT * FROM Gabriel
-WHERE MIGATO IS NOT indahouse
+WHERE MIGATO IS NOT underthetable
